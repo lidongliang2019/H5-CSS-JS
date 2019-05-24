@@ -1,0 +1,230 @@
+.quanbu{
+  width: 100%;
+  height: auto;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background: #b8e5f8;
+  display: block;
+  position: absolute;
+}
+.beijingtu1{
+  width: 100px;
+  height:auto;
+  padding: -50px 0px ;
+  margin: 0 0 0 0;
+  display: block;
+  position: absolute;
+  background-size: 100% auto;s
+}
+.SignFlowHomePage-content{
+  overflow: visible;
+  display: block;
+  width:432px;
+  height: 549px;
+  position: absolute;
+  left: 50%;
+  top:50%;
+  margin-top:50px;
+  margin-left:-216px;
+  text-align: center;
+  background: white;
+}
+.signContainer-content{
+  fill: #0084ff;
+  text-align: center;
+  margin-top: 35px;
+}
+.SigFlowHeader-slogen{
+  text-align: center;
+  color: #0084ff;
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+.Register{
+  width: 432px;
+  height: 283.67px;
+  text-align: center;
+  background-color: #0084ff;
+  position: absolute;
+  display: block;
+  margin: 0 auto;
+}
+.Register{
+  width: 352px;
+  height: 247px;
+  margin: 0 auto;
+  padding: 0 40px 36px 40px;
+  background-color: white;
+  position: absolute;
+  display: block;
+}
+.SignFlow-account{
+  width: 352px;
+  height: 48px;
+  border-bottom: 1px solid #ebebeb;
+  position: absolute;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+.SignFlow-supportedCounteriesSelectContainer{
+  width: 72px;
+  height: 35px;
+  display: block;
+  position: relative;
+  left: 12px;
+  top:20px;
+  color: #b0b3b4;
+  font-size: 17px;
+  font-weight: lighter;
+}
+.SignFlow-accountSeperator{
+  color: #b0b3b4;
+  position: absolute;
+  left: 105px;
+  top: 19px;
+  display: block;
+  font-size: 17px;
+  font-weight: lighter;
+}
+.button1{
+  width: 120px;
+  height: 30px;
+  position: relative;
+  left: 114px;
+  top: 11px;
+  color: #175199;
+  background: transparent;
+  border: transparent;
+  font-weight: lighter;
+}
+.shangxia{
+  width: 5px;
+  height: 50px;
+  position: relative;
+  left: 20px;
+  top: 30px;
+  float: left;
+  margin: 10px 10px 10px;
+  display: block;
+  color: black;
+  font-weight: lighter;
+}
+input{
+  width: 200px;
+  height: 30px;
+  background: white;
+  color: #b0b3b4;
+  border:transparent;
+  position: relative;
+   left: 40px;
+   top:-22px;
+  font-size: 15px;
+  font-weight: lighter;
+}
+.Zi{
+  position: relative;
+  left: 20px;
+  top: -15px;
+}
+.Register-SMSInput{
+   width: 352px;
+  height: 48px;
+  position: relative;
+  border-bottom: 1px solid #ebebeb;
+  left: 40px;
+  top: 100px;
+  font-weight: lighter;
+}
+.joinus{
+  width:200px;
+  height: 30px;
+  left: -81px;
+  top: -18px;
+  color:#b0b3b4;
+  font-weight: lighter;
+}
+.button3{
+  width:200px;
+  height:30px;
+  left: 102px;
+  top: -8px;
+  font-weight: lighter;
+  color: #175199;
+}
+.button4{
+  width: 352px;
+  height: 35px;
+  left: 0px;
+  top: 35px;
+  font-weight:lighter;
+  color: white;
+  background: #0084ff;
+  border-radius: 2px;
+}
+.guild{
+  width:352px;
+  height: auto;
+  position: relative;
+  left: -19px;
+  top: 53px;
+  font-weight: lighter;
+  font-size: 13px;
+  color: #b0b3b4;
+}
+.service{
+  position: relative;
+  left: 23px;
+  top: 0px;
+  background: white;
+  border: transparent;
+  color: #175199;
+  font-size: 13px;
+  padding: 0 0 0 0;
+}
+.loginbar1{
+  position:absolute;
+  left: 0px;
+  top: 490px;
+  width: 100%;
+  height: 58px;
+  background:#f6f6f6;
+  font-weight: 400;
+  font-size: 15px;
+  border-top: #ebebeb 1px solid;
+  box-shadow: #b0b3b4;
+}
+.zhanghao{
+  position: absolute;
+  left:148px;
+  top: 20px;
+}
+.button5{
+  position: absolute;
+  left: 135px;
+  top: 15px;
+  margin-left: 10px;
+  color: #175199;
+  background: transparent;
+  font-size: 15px;
+}
+.Button{
+  width: 432px;
+  height: 45px;
+  background: #8590a6;
+  position: absolute;
+  left: 0px;
+  top: 600px;
+  font-size: 15px;
+  border:transparent;
+  color: white;
+}
+.bottombox{
+  width: 1000px;
+  height: 200px;
+  background: transparent;
+  position: absolute;
+  top: 700px;
+  left: 443px;
+  color: white;
+}
+
